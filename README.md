@@ -48,6 +48,19 @@ Andy Sylvester tries out Ton Zijlstra’s format for creating an OPML booklist (
 
 Ton Zijlstra suggests a solution to Andy Sylvester’s display problem (https://www.zylstra.org/blog/2021/06/andy-tries-out-my-opml-book-lists/), Andy tries it (http://andysylvester.com/2021/06/02/federated-bookshelves-update-1/) and still has issues, then figures out that the MIME type was not set up on his web hosting. After correcting that (http://andysylvester.com/2021/06/03/federated-bookshelves-update-2/), Andy is able to duplicate Ton’s results.
 
+Andy Sylvester creates this repo and posts about it (http://andysylvester.com/2021/06/06/a-federated-bookshelves-reader/), and Stephen Downes comments (https://www.downes.ca/post/72424)
+
+# Implementations
+
+## Library JSON Booklists
+
+Tom Critchlow booklist (https://tomcritchlow.com/library.json)
+
+## Federated Bookshelves OPML Booklists
+
+Ton Zijlstra booklist (https://zylstra.org/opml/books/books.opml)
+
+Andy Sylvester booklist (http://andysylvester.com/files/booklists/booklist.opml)
 
 # Tools
 
@@ -57,7 +70,7 @@ Java Outline Editor (http://outliner.sourceforge.net/) - Can be used to create O
 
 Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer
 
-XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  for display of OPML booklists in human-readable form
+XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  for display of Federated Bookshelves OPML booklists in human-readable form
 
 OPML blogroll display in human-readable form (https://www.chrisfinke.com/2006/07/30/kickin-it-opml-style/), (https://www.zylstra.org/blog/2019/06/my-human-readable-opml-blogroll/) 
 
