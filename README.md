@@ -1,14 +1,14 @@
 # federated-bookshelves
 Capturing information/resources on approaches to sharing information and opinions about books
 
-A Federated Bookshelves reader
+# A Federated Bookshelves reader
 
-Recently, Ton Zijlstra wrote about the concept of “federated bookshelves” (https://www.zylstra.org/blog/2021/04/federated-bookshelves-revisited/), in which he referenced a post by Tom Critchlow on a similar concept called “Library JSON” (https://tomcritchlow.com/2020/04/15/library-json/). I read through the postings flowing from Tom Crichlow’s post in 2020, and the ones from Ton Zijlstra’s post, and thought it would be helpful to provide a chronology of the development of this idea. To this end, I have created a Github repo with a chronology and links to tools and other distributed book info concepts that I have come across in reading on this topic. Pull requests and other comments are welcome! I am planning to spend some time on this in the next few weeks, so hopefully more prototypes and ideas to come….
+Recently, Ton Zijlstra wrote about the concept of “federated bookshelves” (https://www.zylstra.org/blog/2021/04/federated-bookshelves-revisited/), in which he referenced a post by Tom Critchlow on a similar concept called “Library JSON” (https://tomcritchlow.com/2020/04/15/library-json/). I read through the postings flowing from Tom Crichlow’s post in 2020, and the ones from Ton Zijlstra’s post, and thought it would be helpful to provide a chronology of the development of this idea. To this end, I have created this Github repo with a chronology and links to tools and other distributed book info concepts that I have come across in reading on this topic. Pull requests and other comments are welcome! I am planning to spend some time on this in the next few weeks, so hopefully more prototypes and ideas to come….
 
 
-Chronology
+# Chronology
 
-April 2020
+## April 2020
 
 Tom Critchlow proposes Library JSON (https://tomcritchlow.com/2020/04/15/library-json/), a format for enabling sharing of books and information/reviews on bookshelves
 
@@ -28,11 +28,11 @@ Phil Gyford responded with further thoughts on what to include in a listing (htt
 
 Jeremy Keith responded (https://adactio.com/journal/16803) also mentioning microformats as a mechanism for surfacing book information, and mentions a post by Mark Llobrera  (https://web.archive.org/web/20200812232538/http://dirtystylus.com/2020/04/17/visualizing-my-reading-with-semiotic/) on a tool he created to visualize his reading list (https://github.com/dirtystylus/reading-log).
 
-April 2021
+## April 2021
 
 Ton Zijlstra reviewed his post of a year ago and shared more thoughts on federated bookshelves (https://www.zylstra.org/blog/2021/04/federated-bookshelves-revisited/) proposing that OPML might be most simple approach.
 
-May 2021
+## May 2021
 
 Ton Zijlstra creates a proof of concept in OPML (https://www.zylstra.org/blog/2021/05/federated-bookshelf-proof-of-concept/), using an XSL stylesheet to make the OPML human-readable as well as machine-readable (https://zylstra.org/opml/books/books.opml). 
 
@@ -44,12 +44,12 @@ Stephen Downes (https://downes.ca/) talks about Ton Zijlstra’s prototype and T
 
 Andy Sylvester tries out Ton Zijlstra’s format for creating an OPML booklist (http://andysylvester.com/2021/05/31/getting-started-with-federated-bookshelves/), and has a problem displaying the result.
 
-June 2021
+## June 2021
 
 Ton Zijlstra suggests a solution to Andy Sylvester’s display problem (https://www.zylstra.org/blog/2021/06/andy-tries-out-my-opml-book-lists/), Andy tries it (http://andysylvester.com/2021/06/02/federated-bookshelves-update-1/) and still has issues, then figures out that the MIME type was not set up on his web hosting. After correcting that (http://andysylvester.com/2021/06/03/federated-bookshelves-update-2/), Andy is able to duplicate Ton’s results.
 
 
-Tools
+# Tools
 
 Little Outliner (http://littleoutliner.com/) - Outliner that creates OPML files as its output format
 
@@ -61,7 +61,7 @@ XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  for display of OPML bo
 
 OPML blogroll display in human-readable form (https://www.chrisfinke.com/2006/07/30/kickin-it-opml-style/), (https://www.zylstra.org/blog/2019/06/my-human-readable-opml-blogroll/) 
 
-Formats
+# Formats
 
 Library JSON (https://tomcritchlow.com/2020/04/15/library-json/) 
 
