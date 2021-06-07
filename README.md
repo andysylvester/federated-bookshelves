@@ -67,4 +67,10 @@ Library JSON (https://tomcritchlow.com/2020/04/15/library-json/)
 
 OPML book list structure (https://www.zylstra.org/blog/booklist-opml-data-structure/)
 
+# Existing library-type services
+
+Readernaut (https://readernaut.com/)
+
+Library Thing (https://www.librarything.com/)
+
 
