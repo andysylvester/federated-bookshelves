@@ -88,3 +88,5 @@ Library Thing (https://www.librarything.com/)
 
 Bookwyrm (https://tech.lgbt/@bookwyrm)
 
+Open Library (https://openlibrary.org/)
+
