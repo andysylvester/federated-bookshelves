@@ -50,6 +50,8 @@ Ton Zijlstra suggests a solution to Andy Sylvester’s display problem (https://
 
 Andy Sylvester creates this repo and posts about it (http://andysylvester.com/2021/06/06/a-federated-bookshelves-reader/), and Stephen Downes comments (https://www.downes.ca/post/72424)
 
+Andy Sylvester creates a test viewer for Library JSON (http://andysylvester.com/2021/06/09/library-json-test-viewer-now-available/)
+
 # Implementations
 
 ## Library JSON Booklists
