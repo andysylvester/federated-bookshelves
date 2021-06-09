@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Library JSON Test Viewer</title>
+</head>
+<body>
+    <div id="myData"></div>
+    <script>
+            var booklistURL = 'https://tomcritchlow.com/library.json';
+			fetch(booklistURL)
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+            var mainContainer = document.getElementById("myData");
+            console.log(data);
+            console.log(data.name);
+            console.log("Length of lists: " + data.lists.length);
+            console.log("Length of books: " + data.lists[0].books.length);
+            var main_div = document.createElement("div");
+                main_div.innerHTML = 'Library JSON Test Viewer (see this <a href="https://tomcritchlow.com/2020/04/15/library-json/">post</a> for details on Library JSON).' + "<br><br>" + 'Name: ' + data.name + "<br>" + ' URL: ' + data.url + "<br>" + ' Bio: ' + data.bio + "<br><br>";
+                mainContainer.appendChild(main_div);
+
+            for (var i = 0; i < data.lists[0].books.length; i++) {
+                var div = document.createElement("div");
+                div.innerHTML = 'Title: ' + data.lists[0].books[i].title + "<br>" +'  ID: ' + data.lists[0].books[i].id + "<br>" + '  Author: ' + data.lists[0].books[i].author + "<br>" + '  Link: ' + data.lists[0].books[i].link + "<br>" + '  Image: ' + data.lists[0].books[i].image + "<br>" + '  Date Finished: ' + data.lists[0].books[i].date_finished + "<br>" + '  Notes: ' + data.lists[0].books[i].notes + "<br><br>";
+                mainContainer.appendChild(div);
+            }
+        }
+    </script>
+</body>
+</html>
