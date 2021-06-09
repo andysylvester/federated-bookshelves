@@ -72,7 +72,7 @@ Java Outline Editor (http://outliner.sourceforge.net/) - Can be used to create O
 
 Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer
 
-Library JSON Test Viewer (https://github.com/andysylvester/federated-bookshelves/blob/main/tools/libraryJsonViewer.html) - HTML file that can read a Library JSON file defined in a variable and display all the elements
+Library JSON Test Viewer (https://github.com/andysylvester/federated-bookshelves/blob/main/tools/libraryJsonViewer.html) - HTML file that can read a Library JSON file defined in a variable and display all the elements (based on example code from https://howtocreateapps.com/fetch-and-display-json-html-javascript/)
 
 XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  for display of Federated Bookshelves OPML booklists in human-readable form
 
