@@ -54,7 +54,7 @@ Andy Sylvester creates this repo and posts about it (http://andysylvester.com/20
 
 ## Library JSON Booklists
 
-Tom Critchlow booklist (https://tomcritchlow.com/library.json)
+Tom Critchlow booklist (https://tomcritchlow.com/library.json), can be viewed at http://andysylvester.com/files/booklists/libraryJsonViewer01.html
 
 ## Federated Bookshelves OPML Booklists
 
@@ -69,6 +69,8 @@ Little Outliner (http://littleoutliner.com/) - Outliner that creates OPML files 
 Java Outline Editor (http://outliner.sourceforge.net/) - Can be used to create OPML outlines, not sure about attributes though...
 
 Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer
+
+Library JSON Test Viewer (https://github.com/andysylvester/federated-bookshelves/blob/main/tools/libraryJsonViewer.html) - HTML file that can read a Library JSON file defined in a variable and display all the elements
 
 XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  for display of Federated Bookshelves OPML booklists in human-readable form
 
