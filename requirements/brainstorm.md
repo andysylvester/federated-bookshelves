@@ -1,6 +1,8 @@
-This is a collection of requirements based on blog posts about the Library JSON/Federated Bookshelves concept
+This is a collection of possible requirements based on blog posts about the Library JSON/Federated Bookshelves concept
 
-# (TomC’s Library JSON post) https://tomcritchlow.com/2020/04/15/library-json/ 
+# Tom Critchlow’s original Library JSON post
+
+Source: https://tomcritchlow.com/2020/04/15/library-json/ 
 
 Book feed reader/book browser ideas 
 
@@ -14,7 +16,9 @@ Present a reverse-chronologic list of updates to booklists (Feed)
 	Someone just finished reading a book (maybe link to a review)
 	Someone added a book to their “in progress” list
 
-# (Matt Webb post) https://interconnected.org/home/2020/04/16/rss_for_books 
+# Matt Webb response to Tom Critchlow post 
+
+Source: https://interconnected.org/home/2020/04/16/rss_for_books 
 
 Subscribe to lists of books 
 
@@ -33,13 +37,34 @@ Tags for book objects could include
 
 An aggregator that showed me book reviews from everyone I follow explicitly, and also everyone they follow – but no-one else. 
 
-# (Ton Z first post in series) https://www.zylstra.org/blog/2021/04/federated-bookshelves-revisited/ 
+# Phil Gyford response to Tom Critchlow post  
+
+Source: https://www.gyford.com/phil/writing/2020/04/27/tracking-reading/
+
+Possible elements in a booklist:
+
+* reading start date/end date/finished?
+
+* IDs - use Open Library?
+
+* categories/tags
+
+* author/role
+
+* URL field
+
+* review field
+
+
+# Ton Zijlstra's post revisiting his initial post on Federated Bookshelves
+
+Source: https://www.zylstra.org/blog/2021/04/federated-bookshelves-revisited/ 
 
 multiple lists (by topic of interest, genre, language, year, author maybe) 
 
 be able to point from one of my lists to another (from an author field in one list to an author centered list e.g.) 
 
- links to author websites or their publisher would be useful, as is a link to a list sharer’s/reader’s blogpost 
+links to author websites or their publisher would be useful, as is a link to a list sharer’s/reader’s blogpost 
 
 be able to see/get/follow other people’s lists 
 
@@ -49,23 +74,10 @@ be able to adopt entries in other people’s lists into one of my lists (e.g. an
 
 be great if such lists could be imported somehow into tools people might use, e.g. Calibre, Delicious Library, Zotero 
 
-# (Phil Gyford post)  (https://www.gyford.com/phil/writing/2020/04/27/tracking-reading/) 
 
-Possible elements in a booklist:
+# Ton Zijlstra's post summarizing discussion on use of RSS/OPML/JSON for Federated Bookshelves concept 
 
-reading start date/end date/finished?
-
-IDs - use Open Library?
-
-categories/tags
-
-author/role
-
-URL field
-
-review field
-
-# Ton Z post summarizing discussion on RSS/OPML/JSON (https://www.zylstra.org/blog/2021/05/going-in-opml-rss-json-circles/)
+Source: https://www.zylstra.org/blog/2021/05/going-in-opml-rss-json-circles/
 
 Discovery, of books and people reading them, is my core aim for federation
 
@@ -87,5 +99,4 @@ I need to figure out ways to create OPM/RSS/JSON etc directly from where that in
 
 I need to figure out ways to incorporate what others share with me into my workflow and toolset. Whatever is shared through RSS already fits existing information strategies.
 
-
- For a limited number of sources shared with me by others, it might make sense to create mappings of their content to my own content structures, so I can import/integrate them more fully.
+For a limited number of sources shared with me by others, it might make sense to create mappings of their content to my own content structures, so I can import/integrate them more fully.
