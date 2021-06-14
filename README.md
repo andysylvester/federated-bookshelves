@@ -52,6 +52,8 @@ Andy Sylvester creates this repo and posts about it (http://andysylvester.com/20
 
 Andy Sylvester creates a test viewer for Library JSON (http://andysylvester.com/2021/06/09/library-json-test-viewer-now-available/)
 
+Andy Sylvester summarizes possible requirements for Federated Bookshelves/Library JSON (http://andysylvester.com/2021/06/13/requirement-brainstorm-and-some-tools-for-federated-bookshelves/), opens an issue for discussions, and added two tools on viewing OPML/JSON files to the Tools section on the main repo page.
+
 # Implementations
 
 ## Library JSON Booklists
