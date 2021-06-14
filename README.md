@@ -74,9 +74,13 @@ Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer
 
 Library JSON Test Viewer (https://github.com/andysylvester/federated-bookshelves/blob/main/tools/libraryJsonViewer.html) - HTML file that can read a Library JSON file defined in a variable and display all the elements (based on example code from https://howtocreateapps.com/fetch-and-display-json-html-javascript/)
 
-XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  for display of Federated Bookshelves OPML booklists in human-readable form
+XSL stylesheet (https://zylstra.org/opml/books/test.xsl)  - method for display of Federated Bookshelves OPML booklists in human-readable form
 
 OPML blogroll display in human-readable form (https://www.chrisfinke.com/2006/07/30/kickin-it-opml-style/), (https://www.zylstra.org/blog/2019/06/my-human-readable-opml-blogroll/) 
+
+OPML Viewer (https://codebeautify.org/opmlviewer) - Can open an OPML file (local or online) and show original text and XML tree view
+
+JSON Viewer (https://codebeautify.org/jsonviewer) - Can open a JSON file (local or online) and show original text and object view
 
 # Formats
 
