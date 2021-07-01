@@ -54,11 +54,17 @@ Andy Sylvester creates a test viewer for Library JSON (http://andysylvester.com/
 
 Andy Sylvester summarizes possible requirements for Federated Bookshelves/Library JSON (http://andysylvester.com/2021/06/13/requirement-brainstorm-and-some-tools-for-federated-bookshelves/), opens an issue for discussions, and added two tools on viewing OPML/JSON files to the Tools section on the main repo page.
 
+Andy Sylvester took a cut at compiling requirements for Booklist Browser (http://andysylvester.com/2021/06/18/my-take-on-requirements-for-booklist-browser-app/)
+
+## July 2021
+
+Ravern Koh has set up a new instance of his Bookshelves app for Library JSON files (https://bookshelves.ravern.dev/) (mentioned by Andy Sylvester http://andysylvester.com/2021/07/01/tool-update-for-federated-bookshelves-library-json-project/)
+
 # Implementations
 
 ## Library JSON Booklists
 
-Tom Critchlow booklist (https://tomcritchlow.com/library.json), can be viewed at http://andysylvester.com/files/booklists/libraryJsonViewer01.html
+Tom Critchlow booklist (https://tomcritchlow.com/library.json), can be viewed at https://bookshelves.ravern.dev/ or http://andysylvester.com/files/booklists/libraryJsonViewer01.html
 
 ## Federated Bookshelves OPML Booklists
 
@@ -72,7 +78,7 @@ Little Outliner (http://littleoutliner.com/) - Outliner that creates OPML files 
 
 Java Outline Editor (http://outliner.sourceforge.net/) - Can be used to create OPML outlines, not sure about attributes though...
 
-Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer
+Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer (new instance available at https://bookshelves.ravern.dev/ as of 7/1/2021)
 
 Library JSON Test Viewer (https://github.com/andysylvester/federated-bookshelves/blob/main/tools/libraryJsonViewer.html) - HTML file that can read a Library JSON file defined in a variable and display all the elements (based on example code from https://howtocreateapps.com/fetch-and-display-json-html-javascript/)
 
