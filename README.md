@@ -60,6 +60,8 @@ Andy Sylvester took a cut at compiling requirements for Booklist Browser (http:/
 
 Ravern Koh has set up a new instance of his Bookshelves app for Library JSON files (https://bookshelves.ravern.dev/) (mentioned by Andy Sylvester http://andysylvester.com/2021/07/01/tool-update-for-federated-bookshelves-library-json-project/)
 
+Andy Sylvester tried out a new OPML toolkit and modified the client to read a booklist file (http://andysylvester.com/files/opmlclient/) (see also http://andysylvester.com/2021/07/04/another-opml-viewer-for-federated-bookshelves/)
+
 # Implementations
 
 ## Library JSON Booklists
@@ -79,6 +81,8 @@ Little Outliner (http://littleoutliner.com/) - Outliner that creates OPML files 
 Java Outline Editor (http://outliner.sourceforge.net/) - Can be used to create OPML outlines, not sure about attributes though...
 
 Bookshelves (https://github.com/ravern/bookshelves) - Library JSON parser/viewer (new instance available at https://bookshelves.ravern.dev/ as of 7/1/2021)
+
+OPML Client (https://github.com/scripting/opmlPackage/tree/main/client) - Example of OPML display client (instance of client demonstrating display of a Federated Bookshelves booklist at http://andysylvester.com/files/opmlclient/)
 
 Library JSON Test Viewer (https://github.com/andysylvester/federated-bookshelves/blob/main/tools/libraryJsonViewer.html) - HTML file that can read a Library JSON file defined in a variable and display all the elements (based on example code from https://howtocreateapps.com/fetch-and-display-json-html-javascript/)
 
