@@ -1,3 +1,8 @@
+# Introduction
+
+This is an exploration of the possible domains for the Booklist Browser app, using concepts as described in "How to Engineer Software" by Steve Tockey (https://www.construx.com/books/how-to-engineer-software/)
+
+
 # Initial domain thoughts
 
 Booklist
