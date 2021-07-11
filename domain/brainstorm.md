@@ -13,7 +13,9 @@ Web UI
 
 User
 
-# List of concepts about the Booklist Browser app based on requirements (see XXX)
+# List of concepts about the Booklist Browser app
+
+Concept list is based on requirements captured at https://github.com/andysylvester/federated-bookshelves/blob/main/requirements/Booklist_Browser_App_Requirements.md
 
 Open booklist
 
