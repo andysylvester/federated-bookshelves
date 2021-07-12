@@ -51,3 +51,67 @@ Create list of followed booklists
 
 Share list of followed booklists
 
+
+# Grouping of above concepts
+
+## Group 1
+
+Edit booklist
+
+Read booklist
+
+Create booklist
+
+Display all book elements for a book in a booklist
+
+Open booklist
+
+## Group 2
+
+Booklist elements
+
+Point to other booklist
+
+Point to blog post
+
+
+## Group 3
+
+Detect booklist change
+
+Detect booklist addition
+
+Detect booklist deletion
+
+Create reverse-chronologic list of booklist updates
+
+## Group 4
+
+Display book reviews
+
+View a booklist
+
+Follow updates to booklists
+
+Create list of followed booklists
+
+Share list of followed booklists
+
+# Possible new domain list
+
+Booklist
+
+Book
+
+Web UI
+
+Booklist editing
+
+Booklist analysis
+
+Booklist browsing
+
+
+
+
+
