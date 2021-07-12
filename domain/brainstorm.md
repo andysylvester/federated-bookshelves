@@ -103,13 +103,11 @@ Booklist
 
 Book
 
-Web UI
+Booklist Editor
 
-Booklist editing
+Booklist Analyzer
 
-Booklist analysis
-
-Booklist browsing
+Booklist Browser
 
 
 
