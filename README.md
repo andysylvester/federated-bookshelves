@@ -62,6 +62,8 @@ Ravern Koh has set up a new instance of his Bookshelves app for Library JSON fil
 
 Andy Sylvester tried out a new OPML toolkit and modified the client to read a booklist file (http://andysylvester.com/files/opmlclient/) (see also http://andysylvester.com/2021/07/04/another-opml-viewer-for-federated-bookshelves/)
 
+Andy Sylvester created a set of requirements for Booklist Browser app, and refined the requirements into concepts and domains (http://andysylvester.com/2021/07/13/booklist-browser-app-update/). This repo now has folders for requirements and domains.
+
 # Implementations
 
 ## Library JSON Booklists
