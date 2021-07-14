@@ -109,7 +109,59 @@ Booklist Analyzer
 
 Booklist Browser
 
+# Possible new domain grouping
 
+## Booklist
+
+Booklist elements
+
+Point to other booklist
+
+Point to blog post
+
+
+## Book
+
+Booklist elements
+
+Point to other booklist
+
+Point to blog post
+
+## Booklist Editor
+
+Edit booklist
+
+Read booklist
+
+Create booklist
+
+Display all book elements for a book in a booklist
+
+Open booklist
+
+## Booklist Analyzer
+
+Detect booklist change
+
+Detect booklist addition
+
+Detect booklist deletion
+
+Create reverse-chronologic list of booklist updates
+
+
+## Booklist Browser
+
+Display book reviews
+
+View a booklist
+
+Follow updates to booklists
+
+Create list of followed booklists
+
+Share list of followed booklists
 
 
 
