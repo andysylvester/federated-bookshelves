@@ -1,11 +1,12 @@
 @startuml
 
-[First component]
-[Another component] as Comp2
-component Comp3
-component [Last\ncomponent] as Comp4
+component [Booklist] as Comp1
+component [Book] as Comp2
+component [Booklist Editor] as Comp3
+component [Booklist Analyzer] as Comp4
+component [Booklist Browser] as Comp5
 
-[First component] ..> Comp2
+[Comp1] ..> Comp2
 [Comp3] ..> Comp4
 
 
