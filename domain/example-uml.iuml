@@ -10,6 +10,6 @@ component [Booklist Analyzer]
 [Booklist Browser] ..> [Booklist Editor]
 [Booklist Browser] ..> [Booklist]
 [Booklist Analyzer] ..> [Booklist Browser]
-[Booklist Analyzer] ..> [Booklist Editor]
+
 
 @enduml
