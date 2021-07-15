@@ -6,7 +6,7 @@ component Comp3
 component [Last\ncomponent] as Comp4
 
 [First component] ..> Comp2
-[Comp3] ..> Comp2
+[Comp3] ..> Comp4
 
 
 
