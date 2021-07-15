@@ -169,3 +169,12 @@ Share list of followed booklists
 
 ![example2-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/domain/example-uml.iuml)
 
+# PlantUML Resources
+
+Jonas Hackt (https://github.com/jonashackt/plantuml-markdown) - Links to examples
+
+PlantUML Cheat Sheet (https://ogom.github.io/draw_uml/plantuml/) - Examples of most PlantUML in Github
+
+PlantUML (https://plantuml.com/) - Home site of PlantUML software and documentation
+
+Markdown native diagrams with PlantUML (https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/)
