@@ -1,15 +1,15 @@
 @startuml
 
-component [Booklist] as Comp1
-component [Book] as Comp2
-component [Booklist Browser] as Comp5
-component [Booklist Editor] as Comp3
-component [Booklist Analyzer] as Comp4
+component [Booklist]
+component [Book]
+component [Booklist Browser]
+component [Booklist Editor]
+component [Booklist Analyzer]
 
-[Comp1] ..> Comp2
-[Comp3] ..> Comp4
-[Comp3] ..> Comp1
-[Comp5] ..> Comp3
-[Comp5] ..> Comp4
+[Booklist] ..> [Book]
+[Booklist Browser] ..> [Booklist Editor]
+[Booklist Browser] ..> [Booklist]
+[Booklist Analyzer] ..> [Booklist Browser]
+[Booklist Analyzer] ..> [Booklist Editor]
 
 @enduml
