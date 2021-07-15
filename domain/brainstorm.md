@@ -163,5 +163,8 @@ Create list of followed booklists
 
 Share list of followed booklists
 
+# UML experiment
+
+![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
 
 
