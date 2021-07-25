@@ -1,4 +1,4 @@
-# Possible new domain grouping
+# Booklist Browser app domain use cases
 
 ## Booklist
 
@@ -8,10 +8,13 @@ Point to other booklist
 
 Point to blog post
 
+![example4-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist.iuml)
 
 ## Book
 
 Book elements
+
+![example5-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-book.iuml)
 
 ## Booklist Editor
 
@@ -47,19 +50,6 @@ Follow updates to booklists
 Create list of followed booklists
 
 Share list of followed booklists
-
-# UML experiment
-
-![example-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
-
-![example2-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/domain/example-uml.iuml)
-
-![example3-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml.iuml)
-
-![example4-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist.iuml)
-
-![example5-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-book.iuml)
-
 
 # PlantUML Resources
 
