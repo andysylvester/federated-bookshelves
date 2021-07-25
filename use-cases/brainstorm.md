@@ -28,6 +28,8 @@ Display all book elements for a book in a booklist
 
 Open booklist
 
+![example6-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-editor.iuml)
+
 ## Booklist Analyzer
 
 Detect booklist change
