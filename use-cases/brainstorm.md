@@ -11,11 +11,7 @@ Point to blog post
 
 ## Book
 
-Booklist elements
-
-Point to other booklist
-
-Point to blog post
+Book elements
 
 ## Booklist Editor
 
