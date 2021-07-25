@@ -1,0 +1,17 @@
+@startuml
+left to right direction
+actor "Booklist Browser" as fc
+rectangle Booklist_Editor {
+  usecase "Edit booklist" as UC1
+  usecase "Read booklist" as UC2
+  usecase "Create booklist" as UC3
+  usecase "Display all book elements for a book in a booklist" as UC4
+  usecase "Open booklist" as UC5
+}
+fc --> UC1
+fc --> UC2
+fc --> UC3
+fc --> UC4
+fc --> UC5
+@enduml
+
