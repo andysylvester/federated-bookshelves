@@ -1,6 +1,6 @@
 @startuml
 left to right direction
-actor "Booklist Analyzer" as fc
+actor "Booklist Browser" as fc
 rectangle Booklist_Analyzer {
   usecase "Detect booklist change" as UC1
   usecase "Detect booklist addition" as UC2
