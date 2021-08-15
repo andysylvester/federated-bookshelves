@@ -8,7 +8,7 @@ Booklist elements - List of items that can be contained in a booklist (see Feder
 
 Point to other booklist - URL or location of another booklist
 
-Point to blog post" as UC3
+Point to blog post - URL or location of a blog post referring to a booklist
 
 
 ## Book
