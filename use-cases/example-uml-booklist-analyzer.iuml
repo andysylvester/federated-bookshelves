@@ -1,1 +1,14 @@
-Start
+@startuml
+left to right direction
+actor "Booklist Analyzer" as fc
+rectangle Booklist_Analyzer {
+  usecase "Detect booklist change" as UC1
+  usecase "Detect booklist addition" as UC2
+  usecase "Detect booklist deletion" as UC3
+  usecase "Create reverse-chronologic list of booklist updates" as UC4
+}
+fc --> UC1
+fc --> UC2
+fc --> UC3
+fc --> UC4
+@enduml
