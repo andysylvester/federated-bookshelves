@@ -1,1 +1,16 @@
-
+@startuml
+left to right direction
+actor "Booklist Browser" as fc
+rectangle Booklist_Browserr {
+  usecase "Display book reviews" as UC1
+  usecase "View a booklist" as UC2
+  usecase "Follow updates to booklists" as UC3
+  usecase "Create list of followed booklists" as UC4
+  usecase "Share list of followed booklists" as UC5
+}
+fc --> UC1
+fc --> UC2
+fc --> UC3
+fc --> UC4
+fc --> UC5
+@enduml
