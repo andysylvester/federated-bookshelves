@@ -36,28 +36,28 @@ Open booklist - User can select a booklist to review
 
 ![example7-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-analyzer.iuml)
 
-Detect booklist change - 
+Detect booklist change - Check current copy of a booklist against the stored copy to see if had changed
 
-Detect booklist addition - 
+Detect booklist addition - If the booklist has changed, determine if the change was an addition
 
-Detect booklist deletion - 
+Detect booklist deletion - If the booklist has changed, determine if the change was a deletion
 
-Create reverse-chronologic list of booklist updates - 
+Create reverse-chronologic list of booklist updates - For all changes in booklists being followed, create a reverse-chronologic list of those changes
 
 
 ## Booklist Browser
 
 ![example8-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-browser.iuml)
 
-Display book reviews - 
+Display book reviews - Display book reviews in the booklist
 
-View a booklist - 
+View a booklist - User can view a selected booklist
 
-Follow updates to booklists -
+Follow updates to booklists - User can select booklists that should be followed (supports creating list of booklist updates)
 
-Create list of followed booklists -
+Create list of followed booklists - User can create a list of booklists to follow
 
-Share list of followed booklists -
+Share list of followed booklists - Provides a URL or other some other location for a list of followed booklists (like an OPML subscription list for RSS)
 
 
 # PlantUML Resources
