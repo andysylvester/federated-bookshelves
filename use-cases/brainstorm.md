@@ -4,6 +4,13 @@
 
 ![example4-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist.iuml)
 
+Booklist elements - List of items that can be contained in a booklist (see Federated Bookshelves list and Library JSON list)
+
+Point to other booklist - URL or location of another booklist
+
+Point to blog post" as UC3
+
+
 ## Book
 
 ![example5-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-book.iuml)
