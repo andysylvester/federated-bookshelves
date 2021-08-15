@@ -2,57 +2,21 @@
 
 ## Booklist
 
-Booklist elements
-
-Point to other booklist
-
-Point to blog post
-
 ![example4-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist.iuml)
 
 ## Book
-
-Book elements
 
 ![example5-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-book.iuml)
 
 ## Booklist Editor
 
-Edit booklist
-
-Read booklist
-
-Create booklist
-
-Display all book elements for a book in a booklist
-
-Open booklist
-
 ![example6-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-editor.iuml)
 
 ## Booklist Analyzer
 
-Detect booklist change
-
-Detect booklist addition
-
-Detect booklist deletion
-
-Create reverse-chronologic list of booklist updates
-
 ![example7-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-analyzer.iuml)
 
 ## Booklist Browser
-
-Display book reviews
-
-View a booklist
-
-Follow updates to booklists
-
-Create list of followed booklists
-
-Share list of followed booklists
 
 ![example8-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-browser.iuml)
 
