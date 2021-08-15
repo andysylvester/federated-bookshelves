@@ -40,6 +40,7 @@ Detect booklist deletion
 
 Create reverse-chronologic list of booklist updates
 
+![example7-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-analyzer.iuml)
 
 ## Booklist Browser
 
