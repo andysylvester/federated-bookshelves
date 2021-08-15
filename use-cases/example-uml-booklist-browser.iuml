@@ -1,6 +1,6 @@
 @startuml
 left to right direction
-actor "Booklist Browser" as fc
+actor "User" as fc
 rectangle Booklist_Browser {
   usecase "Display book reviews" as UC1
   usecase "View a booklist" as UC2
