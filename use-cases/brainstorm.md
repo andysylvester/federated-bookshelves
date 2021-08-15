@@ -54,6 +54,9 @@ Create list of followed booklists
 
 Share list of followed booklists
 
+![example8-uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/andysylvester/federated-bookshelves/master/use-cases/example-uml-booklist-browser.iuml)
+
+
 # PlantUML Resources
 
 Jonas Hackt (https://github.com/jonashackt/plantuml-markdown) - Links to examples
