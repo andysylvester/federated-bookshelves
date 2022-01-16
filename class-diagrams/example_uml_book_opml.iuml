@@ -1,8 +1,19 @@
 @startuml
 left to right direction
-actor "Booklist" as fc
-rectangle Book {
-  usecase "Book elements" as UC1
+class User {
+  username
+  password
+  +sign_in()
 }
-fc --> UC1
+
+class Group {
+  name
+}
+
+class Member {
+  roles
+}
+
+User .. Member
+Group .. Member
 @enduml
