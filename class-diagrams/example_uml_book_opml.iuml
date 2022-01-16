@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor "Booklist" as fc
+rectangle Book {
+  usecase "Book elements" as UC1
+}
+fc --> UC1
+@enduml
