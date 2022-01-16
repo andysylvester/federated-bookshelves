@@ -1,17 +1,38 @@
 @startuml
 left to right direction
-class Book {
-  text
-  name
-  author
-  isbn
-  comment
-  url
-  authorurl
-  referencelisturl
-  referenceurl
-  inLanguage
-  category
+class Book_OPML {
+  book_text
+  book_name
+  book_author
+  book_isbn
+  book_comment
+  book_url
+  book_authorurl
+  book_referencelisturl
+  book_referenceurl
+  book_inLanguage
+  book_category
+  +method_tbd()
+}
+
+class Book_OPMLFile {
+  header_title
+  header_url
+  header_dateCreated
+  header_dateModified
+  header_ownerName
+  header_ownerId
+  header_ownerEmail
+  collection_text
+  collection_author
+  collection_url
+  collection_comment
+  rss_text
+  rss_xmlUrl
+  rss_htmlUrl
+  rss_author
+  include_text
+  include_url
   +method_tbd()
 }
 
