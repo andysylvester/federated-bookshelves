@@ -64,6 +64,16 @@ Andy Sylvester tried out a new OPML toolkit and modified the client to read a bo
 
 Andy Sylvester created a set of requirements for Booklist Browser app, and refined the requirements into concepts and domains (http://andysylvester.com/2021/07/13/booklist-browser-app-update/). This repo now has folders for requirements and domains.
 
+## December 2021
+
+Chris Aldrich put out a call for a IndieWeb pop-up for personal libraries (https://boffosocko.com/2021/12/25/call-for-interest-indiewebcamp-pop-up-session-on-goodreads-replacements-and-decentralized-book-projects/), signup page at https://indieweb.org/2022/Pop-ups/Sessions#Personal_Libraries.
+
+## January 2022
+
+Ton Zijlstra created a workflow for creating OPML booklists from his Markdown notes in Obsidian (https://www.zylstra.org/blog/2022/01/federated-bookshelves-obsidian-notes-to-opml/), and published results of his production run of his scripts (https://www.zylstra.org/blog/2022/01/first-production-run-of-federated-bookshelves/) (see his Github repo (https://github.com/tonzyl/books_markdown_to_opml) for the scripts he used).
+
+Andy Sylvester published an update on his work on federated bookshelves (https://andysylvester.com/2022/01/15/federated-bookshelves-january-2022-update/).
+
 # Implementations
 
 ## Library JSON Booklists
