@@ -1,1 +1,31 @@
-Placeholder
+@startuml
+left to right direction
+class Book_LibraryJSON {
+  book_title
+  book_author
+  book_id
+  book_url
+  book_dataFinished
+  book_notes
+  +method_tbd()
+}
+
+class Book_LibraryJSONFile {
+  header_title
+  header_url
+  header_bio
+  list
+  +method_tbd()
+}
+
+class Group {
+  name
+}
+
+class Member {
+  roles
+}
+
+User .. Member
+Group .. Member
+@enduml
