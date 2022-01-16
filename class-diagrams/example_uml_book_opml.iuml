@@ -1,9 +1,18 @@
 @startuml
 left to right direction
-class User {
-  username
-  password
-  +sign_in()
+class Book {
+  text
+  name
+  author
+  isbn
+  comment
+  url
+  authorurl
+  referencelisturl
+  referenceurl
+  inLanguage
+  category
+  +method_tbd()
 }
 
 class Group {
